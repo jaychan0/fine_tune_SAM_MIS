@@ -28,8 +28,8 @@ the file structure will be:
 --UI_329_up_up.py
 
 ## display of effect drawing
-### original vit_b
+### original vit_b in spleen image segment
 ![image](https://github.com/jaychan0/fine_tune_SAM_MIS/assets/105201516/9593a202-65d5-431a-a0b6-2b49708276d3)
 
-### fine tune checkpoint in spleen
+### fine tune checkpoint in spleen image segment
 ![image](https://github.com/jaychan0/fine_tune_SAM_MIS/assets/105201516/d4e79fb1-8123-4a7f-9f2f-4cbe10820b91)
